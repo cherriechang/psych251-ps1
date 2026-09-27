@@ -1,0 +1,18 @@
+```{r}
+longest_substring <- function(s) {
+  if (nchar(s) == 0) return(0)
+  chars <- strsplit(s, "")[[1]]
+  last_seen <- list() 
+  start <- 1          
+  max_len <- 0
+  for (i in seq_along(chars)) {
+    ch <- chars[i]
+    if (!is.null(last_seen[[ch]]) && last_seen[[ch]] >= start) {
+      start <- last_seen[[ch]] + 1 
+    }
+    last_seen[[ch]] <- i
+    max_len <- max(max_len, i - start + 1)
+  }
+  max_len
+}
+```
