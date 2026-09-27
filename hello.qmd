@@ -15,4 +15,6 @@ longest_substring <- function(s) {
   }
   max_len
 }
+
+print(longest_substring("polytopia"))
 ```
