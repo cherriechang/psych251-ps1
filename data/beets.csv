@@ -1,0 +1,22 @@
+id,userType,month,year,caregiverId,teacherId,school,class,cohort,email,password,uid,age,language,,_1,_2,_3
+us_beet_1,child,1,2023,us_beet_2,us_beet_3,School of Beets,class-pink-beets,,ll087hoxwf@levante.com,65sek5jwyt,iJETlUNa06pkANL56x4d,44,,,,,<5 yo
+us_beet_2,caregiver,,,,,School of Beets,class-pink-beets,,h4x3q00ewd@levante.com,rinsbklnkh,vHgZztxmYgde1jHZZvfM,,,two child share caregiver,,,5-10yo
+us_beet_3,teacher,,,,,School of Beets,class-pink-beets,,ddskaspqwj@levante.com,luw7iystsn,J7Kjffcc4gq4QB7EAgHu,,,two child share teacher,,,
+us_beet_4,child,3,2023,us_beet_5,us_beet_6,School of Beets,class-pink-beets,,of9ohgewhi@levante.com,2nm54ayb0c,wCiG7V0ydXZ96aMLJH3Q,42,,two child share both caregiver and teacher,,,
+us_beet_5,caregiver,,,,,School of Beets,class-pink-beets,,95lv4o2t25@levante.com,mghf7834bu,LYVM1G1HWTMxxbw1S8Cx,,,,,,
+us_beet_6,teacher,,,,,School of Beets,class-pink-beets,,2webbcprdc@levante.com,4dlldjz1o9,3SsVrOpOV8QzBdFVXb6Y,,,,,,12+ yo
+us_beet_7,child,1,2020,us_beet_8,us_beet_9,School of Beets,class-pink-beets,,4reqs8frgt@levante.com,ws7rq2d5pm,Rq7AWFUo7Wr6pQNxkLyV,74,,,,,
+us_beet_8,caregiver,,,,,School of Beets,class-pink-beets,,h69b8hdjqa@levante.com,sm3awhkxoe,eiiuLsP2TQOTxguOu0kl,,,,,,
+us_beet_9,teacher,,,,,School of Beets,class-pink-beets,,shfi7bl7q6@levante.com,bli8i154x0,NTG9bT3Frl1mQqlpeHVp,,,,,,
+us_beet_10,child,7,2019,us_beet_5,us_beet_12,School of Beets,class-pink-beets,,m6r58di6fh@levante.com,89fjn4jk50,tDukBe2oM0iVD578P8pJ,81,,,,,
+us_beet_11,caregiver,,,,,School of Beets,class-pink-beets,,3i09rsy1lp@levante.com,xh17uze0we,vEPnZsHOJ9MD4ZjTapY3,,,,,,
+us_beet_12,teacher,,,,,School of Beets,class-pink-beets,,qbpdn37lgw@levante.com,mcfm7chvvb,BvbZ1orv4lvRbXJC6VVy,,,,,,
+us_beet_13,child,2,2018,us_beet_14,us_beet_6,School of Beets,class-pink-beets,,eb6605ogyl@levante.com,m1nny25oi8,mDXe2uGCSTTDaI5TqxcL,98,,,,,
+us_beet_14,caregiver,,,,,School of Beets,class-pink-beets,,5ty7ujldko@levante.com,gmuknh6y73,m1rAMb7l4gfV6VvqTS6m,,,,,,
+us_beet_15,teacher,,,,,School of Beets,class-pink-beets,,x813d04nlh@levante.com,g4qggk8n2z,Zw6dOfoKniZL0uUsANf5,,,,,,
+us_beet_16,child,12,2016,us_beet_5,us_beet_6,School of Beets,class-pink-beets,,8miufwzw8g@levante.com,hnm3qgg058,pvlYzhbP8FuXVRquoQJR,120,,,,,
+us_beet_17,caregiver,,,,,School of Beets,class-pink-beets,,o8i94agf4i@levante.com,334l8mj78j,TA3eV6lp8snmxGJckY1E,,,,,,
+us_beet_18,teacher,,,,,School of Beets,class-pink-beets,,x502w7080y@levante.com,crkzu9qbm9,GM6h5zOOWrSo8IqoMAEh,,,,,,
+us_beet_19,child,11,2013,us_beet_20,us_beet_21,School of Beets,class-pink-beets,,y7o9sxkvbu@levante.com,vztkl7rs2c,oUel8ZXteFwK8TSvOUrw,154,,,,,
+us_beet_20,caregiver,,,,,School of Beets,class-pink-beets,,pkzjidwgkm@levante.com,94xdet0c70,3cUWjNQMGEE03jiG2tGB,,,,,,
+us_beet_21,teacher,,,,,School of Beets,class-pink-beets,,y8suwp3v02@levante.com,iscefd3ovn,ZkqSznNN4GV3g56V6Bbw,,,,,,

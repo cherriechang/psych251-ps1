@@ -1,1 +1,5 @@
 .Rhistory
+.Rdata
+*.html
+.secrets
+
