@@ -2,4 +2,7 @@
 .Rdata
 *.html
 .secrets
-
+/.quarto/
+**/*.quarto_ipynb
+docs/*
+!docs/hello.html
