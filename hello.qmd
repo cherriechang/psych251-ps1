@@ -18,3 +18,16 @@ longest_substring <- function(s) {
 
 print(longest_substring("polytopia"))
 ```
+
+```{r}
+library(ggplot2)
+
+heart_data <- data.frame(t = seq(0, 2 * pi, by = 0.01))
+heart_data$x <- 16 * sin(heart_data$t)^3
+heart_data$y <- 13 * cos(heart_data$t) - 5 * cos(2 * heart_data$t)-2 * cos(3 * heart_data$t) - cos(4 * heart_data$t)
+
+ggplot(heart_data, aes(x = x, y = y)) +
+  geom_polygon(fill = "pink", color = "firebrick", linewidth = 1, alpha = 0.8) +
+  coord_fixed() +
+  theme_void()
+```
