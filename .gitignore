@@ -4,5 +4,4 @@
 .secrets
 /.quarto/
 **/*.quarto_ipynb
-docs/*
 !docs/index.html
